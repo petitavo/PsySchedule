@@ -1,4 +1,4 @@
-package com.example.backendvillasystem.iam.domain.model.commands;
+package com.nas.psyschedule.iam.domain.model.commands;
 
 /**
  * Seed roles command

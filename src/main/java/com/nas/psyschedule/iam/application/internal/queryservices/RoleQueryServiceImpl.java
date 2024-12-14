@@ -1,10 +1,10 @@
-package com.example.backendvillasystem.iam.application.internal.queryservices;
+package com.nas.psyschedule.iam.application.internal.queryservices;
 
-import com.example.backendvillasystem.iam.domain.model.entities.Role;
-import com.example.backendvillasystem.iam.domain.model.queries.GetAllRolesQuery;
-import com.example.backendvillasystem.iam.domain.model.queries.GetRoleByNameQuery;
-import com.example.backendvillasystem.iam.domain.services.RoleQueryService;
-import com.example.backendvillasystem.iam.infrastructure.persistence.jpa.repositories.RoleRepository;
+import com.nas.psyschedule.iam.domain.model.entities.Role;
+import com.nas.psyschedule.iam.domain.model.queries.GetAllRolesQuery;
+import com.nas.psyschedule.iam.domain.model.queries.GetRoleByNameQuery;
+import com.nas.psyschedule.iam.domain.services.RoleQueryService;
+import com.nas.psyschedule.iam.infrastructure.persistence.jpa.repositories.RoleRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

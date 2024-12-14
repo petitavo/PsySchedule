@@ -1,4 +1,4 @@
-package com.example.backendvillasystem.iam.domain.model.commands;
+package com.nas.psyschedule.iam.domain.model.commands;
 
 /**
  * Sign in command
@@ -8,7 +8,7 @@ package com.example.backendvillasystem.iam.domain.model.commands;
  * @param username the username of the user
  * @param password the password of the user
  *
- * @see com.example.backendvillasystem.iam.domain.model.aggregates.User
+ * @see com.nas.psyschedule.iam.domain.model.aggregates.User
  */
 public record SignInCommand(String username, String password) {
 }

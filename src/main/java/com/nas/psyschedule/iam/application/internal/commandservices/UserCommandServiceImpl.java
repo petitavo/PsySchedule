@@ -1,13 +1,13 @@
-package com.example.backendvillasystem.iam.application.internal.commandservices;
+package com.nas.psyschedule.iam.application.internal.commandservices;
 
-import com.example.backendvillasystem.iam.application.internal.outboundservices.hashing.HashingService;
-import com.example.backendvillasystem.iam.application.internal.outboundservices.tokens.TokenService;
-import com.example.backendvillasystem.iam.domain.model.aggregates.User;
-import com.example.backendvillasystem.iam.domain.model.commands.SignInCommand;
-import com.example.backendvillasystem.iam.domain.model.commands.SignUpCommand;
-import com.example.backendvillasystem.iam.domain.services.UserCommandService;
-import com.example.backendvillasystem.iam.infrastructure.persistence.jpa.repositories.RoleRepository;
-import com.example.backendvillasystem.iam.infrastructure.persistence.jpa.repositories.UserRepository;
+import com.nas.psyschedule.iam.application.internal.outboundservices.hashing.HashingService;
+import com.nas.psyschedule.iam.application.internal.outboundservices.tokens.TokenService;
+import com.nas.psyschedule.iam.domain.model.aggregates.User;
+import com.nas.psyschedule.iam.domain.model.commands.SignInCommand;
+import com.nas.psyschedule.iam.domain.model.commands.SignUpCommand;
+import com.nas.psyschedule.iam.domain.services.UserCommandService;
+import com.nas.psyschedule.iam.infrastructure.persistence.jpa.repositories.RoleRepository;
+import com.nas.psyschedule.iam.infrastructure.persistence.jpa.repositories.UserRepository;
 import org.apache.commons.lang3.tuple.ImmutablePair;
 import org.springframework.stereotype.Service;
 

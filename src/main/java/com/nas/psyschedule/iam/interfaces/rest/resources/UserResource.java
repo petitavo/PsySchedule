@@ -1,4 +1,4 @@
-package com.example.backendvillasystem.iam.interfaces.rest.resources;
+package com.nas.psyschedule.iam.interfaces.rest.resources;
 
 import java.util.List;
 

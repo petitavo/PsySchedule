@@ -1,7 +1,7 @@
-package com.example.backendvillasystem.iam.infrastructure.persistence.jpa.repositories;
+package com.nas.psyschedule.iam.infrastructure.persistence.jpa.repositories;
 
-import com.example.backendvillasystem.iam.domain.model.entities.Role;
-import com.example.backendvillasystem.iam.domain.model.valueobjects.Roles;
+import com.nas.psyschedule.iam.domain.model.entities.Role;
+import com.nas.psyschedule.iam.domain.model.valueobjects.Roles;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

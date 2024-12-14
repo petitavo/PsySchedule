@@ -1,4 +1,4 @@
-package com.example.backendvillasystem.shared.domain.model.aggregates;
+package com.nas.psyschedule.shared.domain.model.aggregates;
 
 import jakarta.persistence.*;
 import lombok.Getter;

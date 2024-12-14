@@ -1,8 +1,8 @@
-package com.example.backendvillasystem.iam.domain.services;
+package com.nas.psyschedule.iam.domain.services;
 
-import com.example.backendvillasystem.iam.domain.model.entities.Role;
-import com.example.backendvillasystem.iam.domain.model.queries.GetAllRolesQuery;
-import com.example.backendvillasystem.iam.domain.model.queries.GetRoleByNameQuery;
+import com.nas.psyschedule.iam.domain.model.entities.Role;
+import com.nas.psyschedule.iam.domain.model.queries.GetAllRolesQuery;
+import com.nas.psyschedule.iam.domain.model.queries.GetRoleByNameQuery;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,14 +1,14 @@
-package com.example.backendvillasystem.iam.interfaces.rest;
+package com.nas.psyschedule.iam.interfaces.rest;
 
-import com.example.backendvillasystem.iam.domain.services.UserCommandService;
-import com.example.backendvillasystem.iam.interfaces.rest.resources.AuthenticatedUserResource;
-import com.example.backendvillasystem.iam.interfaces.rest.resources.SignInResource;
-import com.example.backendvillasystem.iam.interfaces.rest.resources.SignUpResource;
-import com.example.backendvillasystem.iam.interfaces.rest.resources.UserResource;
-import com.example.backendvillasystem.iam.interfaces.rest.transform.AuthenticatedUserResourceFromEntityAssembler;
-import com.example.backendvillasystem.iam.interfaces.rest.transform.SignInCommandFromResourceAssembler;
-import com.example.backendvillasystem.iam.interfaces.rest.transform.SignUpCommandFromResourceAssembler;
-import com.example.backendvillasystem.iam.interfaces.rest.transform.UserResourceFromEntityAssembler;
+import com.nas.psyschedule.iam.domain.services.UserCommandService;
+import com.nas.psyschedule.iam.interfaces.rest.resources.AuthenticatedUserResource;
+import com.nas.psyschedule.iam.interfaces.rest.resources.SignInResource;
+import com.nas.psyschedule.iam.interfaces.rest.resources.SignUpResource;
+import com.nas.psyschedule.iam.interfaces.rest.resources.UserResource;
+import com.nas.psyschedule.iam.interfaces.rest.transform.AuthenticatedUserResourceFromEntityAssembler;
+import com.nas.psyschedule.iam.interfaces.rest.transform.SignInCommandFromResourceAssembler;
+import com.nas.psyschedule.iam.interfaces.rest.transform.SignUpCommandFromResourceAssembler;
+import com.nas.psyschedule.iam.interfaces.rest.transform.UserResourceFromEntityAssembler;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;

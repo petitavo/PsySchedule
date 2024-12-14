@@ -1,6 +1,6 @@
-package com.example.backendvillasystem.iam.domain.services;
+package com.nas.psyschedule.iam.domain.services;
 
-import com.example.backendvillasystem.iam.domain.model.commands.SeedRolesCommand;
+import com.nas.psyschedule.iam.domain.model.commands.SeedRolesCommand;
 
 /**
  * Role command service

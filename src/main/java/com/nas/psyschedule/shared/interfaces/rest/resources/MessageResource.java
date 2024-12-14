@@ -1,4 +1,4 @@
-package com.example.backendvillasystem.shared.interfaces.rest.resources;
+package com.nas.psyschedule.shared.interfaces.rest.resources;
 
 /**
  * Message Resource

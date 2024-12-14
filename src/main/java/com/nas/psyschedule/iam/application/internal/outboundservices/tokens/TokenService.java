@@ -1,4 +1,4 @@
-package com.example.backendvillasystem.iam.application.internal.outboundservices.tokens;
+package com.nas.psyschedule.iam.application.internal.outboundservices.tokens;
 
 /**
  * TokenService interface

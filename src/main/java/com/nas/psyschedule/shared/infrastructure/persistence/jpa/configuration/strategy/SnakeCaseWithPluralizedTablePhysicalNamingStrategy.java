@@ -1,4 +1,4 @@
-package com.example.backendvillasystem.shared.infrastructure.persistence.jpa.configuration.strategy;
+package com.nas.psyschedule.shared.infrastructure.persistence.jpa.configuration.strategy;
 
 import org.hibernate.boot.model.naming.Identifier;
 import org.hibernate.boot.model.naming.PhysicalNamingStrategy;

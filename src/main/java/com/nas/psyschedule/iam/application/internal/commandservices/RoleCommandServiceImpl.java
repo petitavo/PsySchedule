@@ -1,10 +1,10 @@
-package com.example.backendvillasystem.iam.application.internal.commandservices;
+package com.nas.psyschedule.iam.application.internal.commandservices;
 
-import com.example.backendvillasystem.iam.domain.model.commands.SeedRolesCommand;
-import com.example.backendvillasystem.iam.domain.model.entities.Role;
-import com.example.backendvillasystem.iam.domain.model.valueobjects.Roles;
-import com.example.backendvillasystem.iam.domain.services.RoleCommandService;
-import com.example.backendvillasystem.iam.infrastructure.persistence.jpa.repositories.RoleRepository;
+import com.nas.psyschedule.iam.domain.model.commands.SeedRolesCommand;
+import com.nas.psyschedule.iam.domain.model.entities.Role;
+import com.nas.psyschedule.iam.domain.model.valueobjects.Roles;
+import com.nas.psyschedule.iam.domain.services.RoleCommandService;
+import com.nas.psyschedule.iam.infrastructure.persistence.jpa.repositories.RoleRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.Arrays;

@@ -1,7 +1,7 @@
-package com.example.backendvillasystem.iam.infrastructure.authorization.sfs.pipeline;
+package com.nas.psyschedule.iam.infrastructure.authorization.sfs.pipeline;
 
-import com.example.backendvillasystem.iam.infrastructure.authorization.sfs.model.UsernamePasswordAuthenticationTokenBuilder;
-import com.example.backendvillasystem.iam.infrastructure.tokens.jwt.BearerTokenService;
+import com.nas.psyschedule.iam.infrastructure.authorization.sfs.model.UsernamePasswordAuthenticationTokenBuilder;
+import com.nas.psyschedule.iam.infrastructure.tokens.jwt.BearerTokenService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

@@ -1,6 +1,6 @@
-package com.example.backendvillasystem.iam.domain.model.queries;
+package com.nas.psyschedule.iam.domain.model.queries;
 
-import com.example.backendvillasystem.iam.domain.model.valueobjects.Roles;
+import com.nas.psyschedule.iam.domain.model.valueobjects.Roles;
 
 /**
  * Get role by name query
@@ -8,7 +8,7 @@ import com.example.backendvillasystem.iam.domain.model.valueobjects.Roles;
  *     This class represents the query to get a role by its name.
  * </p>
  * @param name the name of the role
- * @see com.example.backendvillasystem.iam.domain.model.valueobjects.Roles
+ * @see com.nas.psyschedule.iam.domain.model.valueobjects.Roles
  */
 public record GetRoleByNameQuery(Roles name) {
 }

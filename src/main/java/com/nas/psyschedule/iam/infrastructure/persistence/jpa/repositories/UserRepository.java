@@ -1,6 +1,6 @@
-package com.example.backendvillasystem.iam.infrastructure.persistence.jpa.repositories;
+package com.nas.psyschedule.iam.infrastructure.persistence.jpa.repositories;
 
-import com.example.backendvillasystem.iam.domain.model.aggregates.User;
+import com.nas.psyschedule.iam.domain.model.aggregates.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

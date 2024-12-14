@@ -1,7 +1,7 @@
-package com.example.backendvillasystem.iam.application.internal.eventhandlers;
+package com.nas.psyschedule.iam.application.internal.eventhandlers;
 
-import com.example.backendvillasystem.iam.domain.model.commands.SeedRolesCommand;
-import com.example.backendvillasystem.iam.domain.services.RoleCommandService;
+import com.nas.psyschedule.iam.domain.model.commands.SeedRolesCommand;
+import com.nas.psyschedule.iam.domain.services.RoleCommandService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.context.event.ApplicationReadyEvent;

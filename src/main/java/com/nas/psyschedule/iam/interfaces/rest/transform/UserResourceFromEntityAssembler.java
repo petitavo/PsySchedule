@@ -1,8 +1,8 @@
-package com.example.backendvillasystem.iam.interfaces.rest.transform;
+package com.nas.psyschedule.iam.interfaces.rest.transform;
 
-import com.example.backendvillasystem.iam.domain.model.aggregates.User;
-import com.example.backendvillasystem.iam.domain.model.entities.Role;
-import com.example.backendvillasystem.iam.interfaces.rest.resources.UserResource;
+import com.nas.psyschedule.iam.domain.model.aggregates.User;
+import com.nas.psyschedule.iam.domain.model.entities.Role;
+import com.nas.psyschedule.iam.interfaces.rest.resources.UserResource;
 
 public class UserResourceFromEntityAssembler {
     public static UserResource toResourceFromEntity(User user) {

@@ -1,6 +1,6 @@
-package com.example.backendvillasystem.iam.infrastructure.authorization.sfs.model;
+package com.nas.psyschedule.iam.infrastructure.authorization.sfs.model;
 
-import com.example.backendvillasystem.iam.domain.model.aggregates.User;
+import com.nas.psyschedule.iam.domain.model.aggregates.User;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

@@ -1,6 +1,6 @@
-package com.example.backendvillasystem.iam.infrastructure.hashing.bcrypt;
+package com.nas.psyschedule.iam.infrastructure.hashing.bcrypt;
 
-import com.example.backendvillasystem.iam.application.internal.outboundservices.hashing.HashingService;
+import com.nas.psyschedule.iam.application.internal.outboundservices.hashing.HashingService;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
 /**

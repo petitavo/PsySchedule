@@ -1,7 +1,7 @@
-package com.example.backendvillasystem.iam.infrastructure.authorization.sfs.services;
+package com.nas.psyschedule.iam.infrastructure.authorization.sfs.services;
 
-import com.example.backendvillasystem.iam.infrastructure.authorization.sfs.model.UserDetailsImpl;
-import com.example.backendvillasystem.iam.infrastructure.persistence.jpa.repositories.UserRepository;
+import com.nas.psyschedule.iam.infrastructure.authorization.sfs.model.UserDetailsImpl;
+import com.nas.psyschedule.iam.infrastructure.persistence.jpa.repositories.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

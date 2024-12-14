@@ -1,4 +1,4 @@
-package com.example.backendvillasystem.iam.domain.model.valueobjects;
+package com.nas.psyschedule.iam.domain.model.valueobjects;
 
 /**
  * Roles
@@ -7,7 +7,7 @@ package com.example.backendvillasystem.iam.domain.model.valueobjects;
  * </p>
  */
 public enum Roles {
-    CONSUMER,
-    PRODUCER
+    PATIENT,
+    PSYCHOLOGIST
 
 }

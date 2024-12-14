@@ -1,9 +1,9 @@
-package com.example.backendvillasystem.iam.domain.services;
+package com.nas.psyschedule.iam.domain.services;
 
-import com.example.backendvillasystem.iam.domain.model.aggregates.User;
-import com.example.backendvillasystem.iam.domain.model.queries.GetAllUsersQuery;
-import com.example.backendvillasystem.iam.domain.model.queries.GetUserByIdQuery;
-import com.example.backendvillasystem.iam.domain.model.queries.GetUserByUsernameQuery;
+import com.nas.psyschedule.iam.domain.model.aggregates.User;
+import com.nas.psyschedule.iam.domain.model.queries.GetAllUsersQuery;
+import com.nas.psyschedule.iam.domain.model.queries.GetUserByIdQuery;
+import com.nas.psyschedule.iam.domain.model.queries.GetUserByUsernameQuery;
 
 import java.util.List;
 import java.util.Optional;

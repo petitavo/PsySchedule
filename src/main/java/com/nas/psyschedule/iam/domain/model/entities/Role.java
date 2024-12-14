@@ -1,6 +1,6 @@
-package com.example.backendvillasystem.iam.domain.model.entities;
+package com.nas.psyschedule.iam.domain.model.entities;
 
-import com.example.backendvillasystem.iam.domain.model.valueobjects.Roles;
+import com.nas.psyschedule.iam.domain.model.valueobjects.Roles;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -47,7 +47,7 @@ public class Role {
      * @return the default role
      */
     public static Role getDefaultRole() {
-        return new Role(Roles.PRODUCER);
+        return new Role(Roles.PATIENT);
     }
 
     /**

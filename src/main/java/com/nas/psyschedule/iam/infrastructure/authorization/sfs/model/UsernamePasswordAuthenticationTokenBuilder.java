@@ -1,4 +1,4 @@
-package com.example.backendvillasystem.iam.infrastructure.authorization.sfs.model;
+package com.nas.psyschedule.iam.infrastructure.authorization.sfs.model;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

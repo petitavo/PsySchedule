@@ -1,4 +1,4 @@
-package com.example.backendvillasystem.iam.domain.model.queries;
+package com.nas.psyschedule.iam.domain.model.queries;
 
 /**
  * Get user by id query

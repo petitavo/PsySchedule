@@ -1,6 +1,6 @@
-package com.example.backendvillasystem.iam.domain.model.commands;
+package com.nas.psyschedule.iam.domain.model.commands;
 
-import com.example.backendvillasystem.iam.domain.model.entities.Role;
+import com.nas.psyschedule.iam.domain.model.entities.Role;
 
 import java.util.List;
 
@@ -13,7 +13,7 @@ import java.util.List;
  * @param password the password of the user
  * @param roles the roles of the user
  *
- * @see com.example.backendvillasystem.iam.domain.model.aggregates.User
+ * @see com.nas.psyschedule.iam.domain.model.aggregates.User
  */
 public record SignUpCommand(String username, String password, List<Role> roles) {
 }

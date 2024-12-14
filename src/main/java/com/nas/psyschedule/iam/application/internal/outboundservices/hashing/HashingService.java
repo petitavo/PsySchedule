@@ -1,4 +1,4 @@
-package com.example.backendvillasystem.iam.application.internal.outboundservices.hashing;
+package com.nas.psyschedule.iam.application.internal.outboundservices.hashing;
 
 /**
  * HashingService interface

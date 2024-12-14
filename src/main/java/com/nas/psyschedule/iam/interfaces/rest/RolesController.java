@@ -1,9 +1,9 @@
-package com.example.backendvillasystem.iam.interfaces.rest;
+package com.nas.psyschedule.iam.interfaces.rest;
 
-import com.example.backendvillasystem.iam.domain.model.queries.GetAllRolesQuery;
-import com.example.backendvillasystem.iam.domain.services.RoleQueryService;
-import com.example.backendvillasystem.iam.interfaces.rest.resources.RoleResource;
-import com.example.backendvillasystem.iam.interfaces.rest.transform.RoleResourceFromEntityAssembler;
+import com.nas.psyschedule.iam.domain.model.queries.GetAllRolesQuery;
+import com.nas.psyschedule.iam.domain.services.RoleQueryService;
+import com.nas.psyschedule.iam.interfaces.rest.resources.RoleResource;
+import com.nas.psyschedule.iam.interfaces.rest.transform.RoleResourceFromEntityAssembler;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;

@@ -1,7 +1,7 @@
-package com.example.backendvillasystem.iam.interfaces.rest.transform;
+package com.nas.psyschedule.iam.interfaces.rest.transform;
 
-import com.example.backendvillasystem.iam.domain.model.commands.SignInCommand;
-import com.example.backendvillasystem.iam.interfaces.rest.resources.SignInResource;
+import com.nas.psyschedule.iam.domain.model.commands.SignInCommand;
+import com.nas.psyschedule.iam.interfaces.rest.resources.SignInResource;
 
 public class SignInCommandFromResourceAssembler {
     public static SignInCommand toCommandFromResource(SignInResource signInResource) {

@@ -1,7 +1,7 @@
-package com.example.backendvillasystem.iam.domain.model.aggregates;
+package com.nas.psyschedule.iam.domain.model.aggregates;
 
-import com.example.backendvillasystem.iam.domain.model.entities.Role;
-import com.example.backendvillasystem.shared.domain.model.aggregates.AuditableAbstractAggregateRoot;
+import com.nas.psyschedule.iam.domain.model.entities.Role;
+import com.nas.psyschedule.shared.domain.model.aggregates.AuditableAbstractAggregateRoot;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;

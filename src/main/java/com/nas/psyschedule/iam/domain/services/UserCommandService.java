@@ -1,8 +1,8 @@
-package com.example.backendvillasystem.iam.domain.services;
+package com.nas.psyschedule.iam.domain.services;
 
-import com.example.backendvillasystem.iam.domain.model.aggregates.User;
-import com.example.backendvillasystem.iam.domain.model.commands.SignInCommand;
-import com.example.backendvillasystem.iam.domain.model.commands.SignUpCommand;
+import com.nas.psyschedule.iam.domain.model.aggregates.User;
+import com.nas.psyschedule.iam.domain.model.commands.SignInCommand;
+import com.nas.psyschedule.iam.domain.model.commands.SignUpCommand;
 import org.apache.commons.lang3.tuple.ImmutablePair;
 
 import java.util.Optional;

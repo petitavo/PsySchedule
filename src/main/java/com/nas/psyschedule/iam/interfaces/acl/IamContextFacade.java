@@ -1,11 +1,11 @@
-package com.example.backendvillasystem.iam.interfaces.acl;
+package com.nas.psyschedule.iam.interfaces.acl;
 
-import com.example.backendvillasystem.iam.domain.model.commands.SignUpCommand;
-import com.example.backendvillasystem.iam.domain.model.entities.Role;
-import com.example.backendvillasystem.iam.domain.model.queries.GetUserByIdQuery;
-import com.example.backendvillasystem.iam.domain.model.queries.GetUserByUsernameQuery;
-import com.example.backendvillasystem.iam.domain.services.UserCommandService;
-import com.example.backendvillasystem.iam.domain.services.UserQueryService;
+import com.nas.psyschedule.iam.domain.model.commands.SignUpCommand;
+import com.nas.psyschedule.iam.domain.model.entities.Role;
+import com.nas.psyschedule.iam.domain.model.queries.GetUserByIdQuery;
+import com.nas.psyschedule.iam.domain.model.queries.GetUserByUsernameQuery;
+import com.nas.psyschedule.iam.domain.services.UserCommandService;
+import com.nas.psyschedule.iam.domain.services.UserQueryService;
 import org.apache.logging.log4j.util.Strings;
 
 import java.util.ArrayList;

@@ -1,8 +1,8 @@
-package com.example.backendvillasystem.iam.infrastructure.authorization.sfs.configuration;
+package com.nas.psyschedule.iam.infrastructure.authorization.sfs.configuration;
 
-import com.example.backendvillasystem.iam.infrastructure.authorization.sfs.pipeline.BearerAuthorizationRequestFilter;
-import com.example.backendvillasystem.iam.infrastructure.hashing.bcrypt.BCryptHashingService;
-import com.example.backendvillasystem.iam.infrastructure.tokens.jwt.BearerTokenService;
+import com.nas.psyschedule.iam.infrastructure.authorization.sfs.pipeline.BearerAuthorizationRequestFilter;
+import com.nas.psyschedule.iam.infrastructure.hashing.bcrypt.BCryptHashingService;
+import com.nas.psyschedule.iam.infrastructure.tokens.jwt.BearerTokenService;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

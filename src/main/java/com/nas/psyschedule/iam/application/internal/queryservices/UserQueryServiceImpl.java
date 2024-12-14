@@ -1,11 +1,11 @@
-package com.example.backendvillasystem.iam.application.internal.queryservices;
+package com.nas.psyschedule.iam.application.internal.queryservices;
 
-import com.example.backendvillasystem.iam.domain.model.aggregates.User;
-import com.example.backendvillasystem.iam.domain.model.queries.GetAllUsersQuery;
-import com.example.backendvillasystem.iam.domain.model.queries.GetUserByIdQuery;
-import com.example.backendvillasystem.iam.domain.model.queries.GetUserByUsernameQuery;
-import com.example.backendvillasystem.iam.domain.services.UserQueryService;
-import com.example.backendvillasystem.iam.infrastructure.persistence.jpa.repositories.UserRepository;
+import com.nas.psyschedule.iam.domain.model.aggregates.User;
+import com.nas.psyschedule.iam.domain.model.queries.GetAllUsersQuery;
+import com.nas.psyschedule.iam.domain.model.queries.GetUserByIdQuery;
+import com.nas.psyschedule.iam.domain.model.queries.GetUserByUsernameQuery;
+import com.nas.psyschedule.iam.domain.services.UserQueryService;
+import com.nas.psyschedule.iam.infrastructure.persistence.jpa.repositories.UserRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

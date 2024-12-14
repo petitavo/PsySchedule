@@ -1,10 +1,10 @@
-package com.example.backendvillasystem.iam.interfaces.rest;
+package com.nas.psyschedule.iam.interfaces.rest;
 
-import com.example.backendvillasystem.iam.domain.model.queries.GetAllUsersQuery;
-import com.example.backendvillasystem.iam.domain.model.queries.GetUserByIdQuery;
-import com.example.backendvillasystem.iam.domain.services.UserQueryService;
-import com.example.backendvillasystem.iam.interfaces.rest.resources.UserResource;
-import com.example.backendvillasystem.iam.interfaces.rest.transform.UserResourceFromEntityAssembler;
+import com.nas.psyschedule.iam.domain.model.queries.GetAllUsersQuery;
+import com.nas.psyschedule.iam.domain.model.queries.GetUserByIdQuery;
+import com.nas.psyschedule.iam.domain.services.UserQueryService;
+import com.nas.psyschedule.iam.interfaces.rest.resources.UserResource;
+import com.nas.psyschedule.iam.interfaces.rest.transform.UserResourceFromEntityAssembler;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;

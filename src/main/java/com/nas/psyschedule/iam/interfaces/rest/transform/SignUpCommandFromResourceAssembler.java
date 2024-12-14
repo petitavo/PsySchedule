@@ -1,8 +1,8 @@
-package com.example.backendvillasystem.iam.interfaces.rest.transform;
+package com.nas.psyschedule.iam.interfaces.rest.transform;
 
-import com.example.backendvillasystem.iam.domain.model.commands.SignUpCommand;
-import com.example.backendvillasystem.iam.domain.model.entities.Role;
-import com.example.backendvillasystem.iam.interfaces.rest.resources.SignUpResource;
+import com.nas.psyschedule.iam.domain.model.commands.SignUpCommand;
+import com.nas.psyschedule.iam.domain.model.entities.Role;
+import com.nas.psyschedule.iam.interfaces.rest.resources.SignUpResource;
 
 import java.util.ArrayList;
 

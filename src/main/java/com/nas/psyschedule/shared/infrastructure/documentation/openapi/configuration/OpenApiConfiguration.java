@@ -1,4 +1,4 @@
-package com.example.backendvillasystem.shared.infrastructure.documentation.openapi.configuration;
+package com.nas.psyschedule.shared.infrastructure.documentation.openapi.configuration;
 
 import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.ExternalDocumentation;

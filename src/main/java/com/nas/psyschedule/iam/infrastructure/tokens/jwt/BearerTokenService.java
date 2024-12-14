@@ -1,6 +1,6 @@
-package com.example.backendvillasystem.iam.infrastructure.tokens.jwt;
+package com.nas.psyschedule.iam.infrastructure.tokens.jwt;
 
-import com.example.backendvillasystem.iam.application.internal.outboundservices.tokens.TokenService;
+import com.nas.psyschedule.iam.application.internal.outboundservices.tokens.TokenService;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.core.Authentication;
 

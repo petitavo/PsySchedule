@@ -1,6 +1,6 @@
-package com.example.backendvillasystem.iam.infrastructure.tokens.jwt.services;
+package com.nas.psyschedule.iam.infrastructure.tokens.jwt.services;
 
-import com.example.backendvillasystem.iam.infrastructure.tokens.jwt.BearerTokenService;
+import com.nas.psyschedule.iam.infrastructure.tokens.jwt.BearerTokenService;
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.security.Keys;
 import io.jsonwebtoken.security.SignatureException;
